@@ -4,9 +4,11 @@ Game of Thrones is an American fantasy drama television series created by David 
 
 ## Angular App
 	-- This app is built using Angular CLI 6.1.4 and angular 6.1.3 --
+	-- 'Game of thrones' and all the information has been taken from-> https://anapioficeandfire.com/ 
+	    This API documentation contains all information about a popular TV Series Game of Thrones and its related book series --
 	
-	In this angular app, you can find books, characters and houses of the 'game of- thrones'. 
-There are total 8 pages.
+In this angular app, you can find books, characters and houses of the 'game of- thrones'. 
+There are total 5 pages.
 1) home
 2) book/character/house information page
 3) all books
